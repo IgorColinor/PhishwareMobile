@@ -1,0 +1,7 @@
+{
+  "name": "PhishwareMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
